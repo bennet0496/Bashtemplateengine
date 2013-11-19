@@ -17,4 +17,4 @@ placeholder_replace MARKER text datei
 ```
 
 ### Danksagung
-Hier noch mal ein Danke an Hagen Fuchs der mit tatkraeftig bei der erstllung der beiden Funktionen geholfen hat.
+Hier noch mal ein Danke an Hagen Fuchs der mit tatkraeftig bei der Erstllung der beiden Funktionen geholfen hat.
