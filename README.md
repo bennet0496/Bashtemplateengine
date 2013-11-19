@@ -15,3 +15,6 @@ placeholder_replace_multiline MARKER 'ps aux | grep term' datei
 #Einfachen Text ersetzen
 placeholder_replace MARKER text datei
 ```
+
+### Danksagung
+Hier noch mal ein Danke an Hagen Fuchs der mit tatkraeftig bei der erstllung der beiden Funktionen geholfen hat.
