@@ -8,5 +8,6 @@ placeholder_replace (){
 }
 
 
-placeholder_replace PLATZ 'ps aux | grep term' file
-placeholder_replace PLATZ 'ps aux | grep firef' file
+##BEISPIELE
+#placeholder_replace PLATZ 'ps aux | grep term' file
+#placeholder_replace PLATZ 'ps aux | grep firef' file
